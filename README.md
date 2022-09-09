@@ -1,6 +1,7 @@
 # tum-cv-challenge-ss2022-oldversion
 
 Application "Tour-Into-The-Picture" Manual
+group work
 
 Step 1: Please open the application, select a picture on the left side, the picture can be previewed in the middle. (Pictures 1-6 are system pictures, if you want to use other pictures, please select "your image”, and then select your picture). 
 
